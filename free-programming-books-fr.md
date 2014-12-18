@@ -2,7 +2,6 @@
 * [Méta-listes](#méta-listes)
 * [Non dépendant du langage](#non-dépendant-du-langage)
     * [Algorithmique](#algorithmique)
-    * [Bases de données](#bases-de-données)
     * [Logiciels libres](#logiciels-libres)
     * [Makefile](#makefile)
     * [Méthodes de développment](#méthodes-de-développement)
@@ -18,11 +17,13 @@
 * [Haskell](#haskell)
 * [Java](#java)
 * [Javascript](#javascript)
+* [jQuery](#jquery)
 * [LaTeX](#latex)
     * [Asymptote](#asymptote)
     * [Metapost](#metapost)
     * [PGF/TikZ](#pgftikz)
 * [Lisp](#lisp)
+* [Meteor](#meteor)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
@@ -45,10 +46,6 @@
 * [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) par D. Beauquier, J. Berstel, et Ph. Chrétienne
 * [France-IOI](http://www.france-ioi.org/)
 * [Prologin](http://www.prologin.org/)
-
-
-#### Bases de données
-* [Bases de données I](http://decan.lexpage.net/files/bdd1/bdd1-syllabus.pdf), par Jef Wijsen
 
 
 #### Logiciels libres
@@ -117,6 +114,10 @@
 * [Javascript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net/), par Marijn Haverbeke
 
 
+### jQuery
+* [Apprendre jQuery](http://sutterlity.gitbooks.io/apprendre-jquery/), par Sutterlity Laurent
+
+
 ### Haskell
 * [Apprendre Haskell vous fera le plus grand bien !](http://lyah.haskell.fr/)
 * [A Gentle Introduction to Haskell](http://gorgonite.developpez.com/livres/traductions/haskell/gentle-haskell/) par Paul Hudak, John Peterson et Joseph Fasel
@@ -149,6 +150,8 @@ Voir aussi [TeX](#tex)
 * [Introduction à la programmation en Common Lisp](http://www.algo.be/logo1/lisp/intro-lisp.pdf) par Francis Leboutte
 * [Traité de programmation en Common Lisp](http://dept-info.labri.fr/~strandh/Teaching/Programmation-Symbolique/Common/Book/HTML/programmation.html) par Robert Strandh et Irène Durand
 
+### Meteor
+* [Apprendre Meteor](http://mquandalle.gitbooks.io/apprendre-meteor/), par Maxime Quandalle
 
 ### Perl
 * [Guide Perl - débuter et progresser en Perl](http://formation-perl.fr/guide-perl.html), par Sylvain Lhullier
